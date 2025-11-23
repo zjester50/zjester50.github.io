@@ -1,0 +1,5 @@
+title: Stu-Co News / Suggestions
+url: https://<your-username>.github.io
+baseurl: ""          # set to "/repo-name" if using a project pages repo
+source: website      # tells Jekyll to build from the website/ folder
+plugins: []          # leave empty; GitHub Pages only allows whitelisted plugins
